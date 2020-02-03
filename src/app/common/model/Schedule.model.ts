@@ -1,4 +1,4 @@
-import { TypeLesson } from './TypeLesson';
+import { TypeLesson } from '../enum/TypeLesson.enum';
 import { Time } from '@angular/common';
 
 export interface Schedule {
